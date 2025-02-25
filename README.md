@@ -24,7 +24,7 @@ This repository contains all the key documentation related to the Supply2U GIS p
 ### 📢 Pitch Presentation
 🔹 **Description:** A visually engaging slide deck that provides a high-level overview of the project.
 🔹 **Purpose:** Designed for presenting the project to investors, partners, and other stakeholders who are interested in supporting or collaborating on the initiative.
-🔹 **View the Pitch Presentation here:** [https://docs.google.com/presentation/d/1UWSJhcO6T9mCfRGoxWXtHeY3nenbtW8j/edit?usp=sharing&ouid=111333986987430539816&rtpof=true&sd=true](#)
+🔹 **View the Pitch Presentation here:** [Presentation link](https://docs.google.com/presentation/d/1UWSJhcO6T9mCfRGoxWXtHeY3nenbtW8j/edit?usp=sharing&ouid=111333986987430539816&rtpof=true&sd=true)
 
 ### 🎨 Project Poster
 🔹 **Description:** A concise and eye-catching poster summarizing the project’s key features, impact, and technological innovations.
