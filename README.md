@@ -19,11 +19,14 @@ This repository contains all the key documentation related to the Supply2U GIS p
 
 ### 📄 Project Writeup
 🔹 **Description:** A comprehensive document detailing the project's background, objectives, methodology, and implementation strategies.
+
 🔹 **Purpose:** Helps stakeholders understand the technical and strategic aspects of Supply2U, including how GIS and tracking technologies are applied to improve food supply chains.
 
 ### 📢 Pitch Presentation
 🔹 **Description:** A visually engaging slide deck that provides a high-level overview of the project.
+
 🔹 **Purpose:** Designed for presenting the project to investors, partners, and other stakeholders who are interested in supporting or collaborating on the initiative.
+
 🔹 **View the Pitch Presentation here:** [Presentation link](https://docs.google.com/presentation/d/1UWSJhcO6T9mCfRGoxWXtHeY3nenbtW8j/edit?usp=sharing&ouid=111333986987430539816&rtpof=true&sd=true)
 
 ### 🎨 Project Poster
@@ -41,8 +44,11 @@ This repository contains all the key documentation related to the Supply2U GIS p
 
 ## 💡 Why Supply2U?
 🌱 **For Farmers** - Greater market access and fairer pricing.
+
 🛍 **For Consumers** - Transparency on food origins and freshness.
+
 🏬 **For Retailers** - Improved inventory control and supplier traceability.
+
 🚚 **For Logistics Providers** - Smarter, more efficient delivery routes.
 
 By integrating all stakeholders into a single platform, Supply2U is reshaping the agricultural supply chain with cutting-edge GIS and tracking solutions.
