@@ -36,8 +36,11 @@ This repository contains all the key documentation related to the Supply2U GIS p
 
 ## 🎯 Key Features
 ✅ **GPS-Based Real-Time Tracking** - Monitor transportation routes, shipping times, and possible delays to optimize logistics.
+
 ✅ **Supply Chain Transparency** - Allow businesses and consumers to trace food products back to their source, building trust and accountability.
-✅ **Warehouse & Inventory Management** - Track food products through processing facilities, warehouses, and distribution centers to minimize waste and maximize efficiency.
+
+✅ **Logistics Optimization** - Track food products through processing facilities, warehouses, and distribution centers to minimize waste and maximize efficiency.
+
 ✅ **Empowering Farmers** - Enable farmers to connect directly with buyers, receive data-driven insights, and optimize their operations.
 
 ---
